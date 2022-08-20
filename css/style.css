@@ -224,7 +224,7 @@ h3 {
 
 .grafico--node{
     grid-row: 8 / 9;
-    background-image:url(img/grafico2.jpg);
+    background-image:url(img/grafico.jpg);
 }
 
 @media (min-width: 768px) {
